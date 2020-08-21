@@ -14,19 +14,18 @@ The format of the courses is a series of
 
 ## Structure
 
-There will *soon* be two courses available:
+There are two courses available:
 
 * a **full course** (see the ``full_course`` directory) which contains all of
   the material for the full-day NCAS Data Tools training workshop. As a guide,
   it is *designed to take around ~1-2 days of dedicated study* to work
   through.
 
-* a **short course** (see the ``short_course`` directory) which will contain
+* a **short course** (see the ``short_course`` directory) which contains
   a condensed summary of the full course, focusing on demonstrating core
-  functionality. It is *designed to take 2-3 hours* to work through.
-
-Note that at present only the full course is ready for use; the short course
-is currently under development & will be ready in August 2020.
+  functionality. It is *designed to take one hour* to work/walk through.
+  There are also accompanying summary slides to describe the relevant
+  background.
 
 
 ## Prerequisites
@@ -79,8 +78,9 @@ You will be able to open & run the Notebooks at your own pace.
 
 ### Course order
 
-The recommended order in which to work through the full course Notebooks is as follows,
-where all paths given are relative to ``full_course/notebooks/``:
+The recommended order in which to work through the full course Notebooks
+is as follows, where all paths given are relative to
+``full_course/notebooks/``:
 
 | | Topic | Format | Notebook name & location |
 |---|---|---|---|
