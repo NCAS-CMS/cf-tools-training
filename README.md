@@ -1,5 +1,12 @@
 # cf-tools-training
 
+*Note:* this repository was previously called 'cf-training' but was renamed to
+avoid any potential for confusion or name clashing issues
+with the new repository for training resources relating to the CF Conventions
+directly,
+['cf-convention/cf-training'](https://github.com/cf-convention/cf-training).
+(Any URL links to the old name should redirect automatically.)
+
 ## Training material on the CF data analysis tools [``cf-python``](https://ncas-cms.github.io/cf-python) and [``cf-plot``](http://ajheaps.github.io/cf-plot).
 
 These are practical materials *used for NCAS training workshops*, but
