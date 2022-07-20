@@ -1,6 +1,6 @@
-# cf-training
+# cf-tools-training
 
-## Training material on the CF data tools [``cf-python``](https://ncas-cms.github.io/cf-python) and [``cf-plot``](http://ajheaps.github.io/cf-plot).
+## Training material on the CF data analysis tools [``cf-python``](https://ncas-cms.github.io/cf-python) and [``cf-plot``](http://ajheaps.github.io/cf-plot).
 
 These are practical materials *used for NCAS training workshops*, but
 they are self-contained and permanently available so are *also suitable for
@@ -61,7 +61,7 @@ either by downloading the tarball from the GitHub User Interface or by
 running ``git clone``, e.g:
 
 ```console
-$ git clone https://github.com/NCAS-CMS/cf-training.git
+$ git clone https://github.com/NCAS-CMS/cf-tools-training.git
 ```
 
 then navigate to the notebooks directory of the relevant course and
