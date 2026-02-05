@@ -6,7 +6,7 @@ This is the latest (2024+) training course for the CF Data Tools, cf-python and 
 
 In the form of Jupyter Notebooks. At present the course only contains the core content but extension modules will be added to cover certain topics in depth and to show the libraries in real practical use cases.
 
-Consisting of (at present - to be extended):
+The main/full course consists of (at present - to be extended in future with more specialised extension sections):
 
 * **core module** with taught and practical elements of corresponding section numbers from 1 to 6:
   * **six teaching Notebooks `cf_data_tools_intro_0[N].ipynb` for N: 1-6**
@@ -20,8 +20,14 @@ Consisting of (at present - to be extended):
      corresponding taught sections are presented from the above teaching
      Notebook (but can also be worked through independently). Model anwers are provided in the directory `practicals_model_answers`.
 
-
 Note this material corresponds to the first trialled new course which was split into six separate Notebooks for both the taught and practical elements after attendee feedback. The old Notebooks, with all six of the same sections but in one longer Notebook for each case, are kept in `old_longer_notebooks`, but now deprecated.
+
+ There is also a short summary designed to be taught or worked through in around 45
+ minutes, which may serve as a short introducion to, or summary of, cf-python and cf-plot,
+ though note it lifts materials from various sections of the main/full course above and therefore
+ there is a lot of duplication:
+
+ * S1: ``quick_summary/cf_data_tools_summary.ipynb``
 
 
 ### Course structure
@@ -46,4 +52,4 @@ As a computing environment requires (at least):
   which could be externally or in-browser;
 * cf-python v. 3.16.2 or higher (latest version preferred);
 * cf-plot v. 3.3.0 or higher (latest version preferred);
-* Python v.3.8.0., the minimum Python version that is compatible with the above cf* minimum versions (latest stable version of Python preferred).
+* Python v.3.10.0, the minimum Python version that is compatible with the above cf* minimum versions (latest stable version of Python preferred).
